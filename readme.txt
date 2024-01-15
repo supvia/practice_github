@@ -1,1 +1,2 @@
 main: first
+main: second
